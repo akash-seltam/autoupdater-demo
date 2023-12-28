@@ -6,7 +6,7 @@
   "homepage": "./",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akash-seltam/update-repo-demo"
+    "url": "https://github.com/akash-seltam/autoupdater-demo"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
